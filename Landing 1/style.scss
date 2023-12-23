@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: inherit;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 0px;
+  
+    &-thumb {
+      overflow: hidden;
+      border-radius: 6px;
+    }
+  }
+  
